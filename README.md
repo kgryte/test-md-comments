@@ -1,6 +1,6 @@
 > Testing markdown comments. See source.
 
-## Using Markdown Links
+## Markdown Links
 
 [//]: # (This is a comment.)
 
@@ -9,6 +9,14 @@
 This is a comment [//]: # (This is an inline comment.) within a line of text.
 
 This is a comment [//]: # "This is an inline comment.) within a line of text.
+
+
+## Blank Link
+
+[](This is a comment.)
+
+
+This is a comment [](This is a comment)within a line of text.
 
 
 ## HTML
