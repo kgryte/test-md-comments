@@ -1,2 +1,3 @@
-# test-md-comments
-Just testing Markdown comments.
+> Testing markdown comments. See source.
+
+[//]: # (This is a comment.)
